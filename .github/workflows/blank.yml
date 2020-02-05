@@ -1,17 +1,21 @@
-name:ruzyysmartt enterprise
+## 🔧 blank yml
+name: ci github workflows blank yml
+info details : https://github.com/ruzyysmartt 
+on: [push] system operational network digital wokflows blank yml
 
-on: [push]
+ nodes : npm yml matrix system
+       : relrase coverage json
+jobs: check system operation run 
+address : https://github.com/ruzyysmartt/ assets
 
-jobs:my address wallet
-  build:0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae
-
-    runs-on: ubuntu-latest
-
-    steps:test
+    runs-on: ubuntu-latest / system operational network 
+          ⏰ : operation suksess 
+    steps  : final ( test npm yml script js )
     - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: echo Hello, world!
-    - name: Run a multi-line script
-      run: |
+    - name: Run a one-line script💡
+      run: echo Hello, world! (realese coverage json script
+    - name: Run a multi-line script ( matrix)
+      run:npm workflows blank yml system 
         echo Add other actions to build,
         echo test, and deploy your project.
+   resurlt: clear and suksess operation🏆
